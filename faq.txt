@@ -17,46 +17,46 @@ Jede natürliche Person zwischen 18  und 70 Jahren, die in ihrem Herkunftsland
 bzw. Wahlland beigesetzt werden will, kann Mitglied werden. Minderjährige
 Personen können von ihren Eltern bzw. Sorgeberechtigten registriert werden.
 
-Eine juristische Person (Organisationen wie Vereine, Stiftung, etc), die die
+Eine juristische Person (Organisationen wie Vereine, Stiftungen, etc), die die
 Plattform nutzen, abonnieren, fördern bzw. unterstützen will, kann Mitglied
 werden.
 
 4. Was ist eine Bulk-Mitgliedschaft?
 
 Ein Kemiter kann weitere Familienmitglieder auf die Plattform anmelden, die
-Begleichung derer Mitgliedschaftsbeiträge übernehmen und verantworten. Ferner
-kann der Kemiter  die  Pflege des Account der von ihm angemeldeten Mitglieder
+Begleichung deren Mitgliedschaftsbeiträge übernehmen und verantworten. Ferner
+kann der Kemiter  die  Pflege des Accounts der von ihm angemeldeten Mitglieder
 im Rahmen der Bulk-Mitgliedschaft führen.
 
 5. Was ist eine Cluster-Mitgliedschaft?
 
 Organisationen wie Vereine können Mitgliedschaft der Kemitnework Plattform
 abonnieren. Mit gegenseitiger Zustimmung können Kemiter und Organisationen
-derer Teilnahme an Plattform als Status freigegeben und teilen.
+deren Teilnahme an Plattform als Status freigegeben und teilen.
 
 Die Cluster-Mitgliedschaft kann keine Rolle als Bulk-Mitgliedschaft übernehmen.
 Die in Bulk verwalteten Mitglieder einer Cluster-Mitgliedschaft haben meistens
-nur eine strukturelle gesellschaftliche Beziehung. Denn die Organisation zählt
-zu weiteren Kontakt der Kemiter.
+nur eine strukturelle gesellschaftliche Beziehung. (Denn die Organisation zählt
+zu weiteren Kontakt der Kemiter ???).
 
 6. Wie registriere ich mich?
 
-Im Hauptmenü können Sie sich rechts oben unter Voranmelden eines
+Im Hauptmenü können Sie sich rechts oben unter Voranmelden einen
 Registrierungsvorgang anstoßen. Sie erhalten nach einer erfolgreichen Prüfung
 eine Mitgliedschaftsbestätigung von Kemitnetwork.
 
 7. Wann tritt die Mitgliedschaft in Kraft?
 
 Ihre Mitgliedschaft tritt in Kraft, sobald Sie eine Bestätigung von
-“Kemitnetwork” erhalten haben. Und es gilt der allgemeinen Geschäftsbedingungen
-der Plattforme zu diesem Zeitpunkt.
+Kemitnetwork UG erhalten haben. (Und es gelten die allgemeinen Geschäftsbedingungen
+der Plattform zu diesem Zeitpunkt ??? ist das notwendig, der Satz?).
 
 8. Wie hoch ist der Beitrag für die Mitgliedschaft?
 
 Als Mitglied von Kemitnetwork zahlen Sie eine einmalige Aufnahmegebühr in Höhe
-von 5,00 EUR und einen jährlichen Mitgliedsbeitrag. Ihr Jahresbeitrag richtet
+von 5,00 EUR (sollte das nicht 29,98 EUR sein?) und einen jährlichen Mitgliedsbeitrag. Ihr Jahresbeitrag richtet
 sich nach ihrem Eintrittsalter und gilt über die gesamte Zeit Ihrer
-Mitgliedsschaft. Es gilt, je jünger Sie sind, desto weniger zahlen Sie. Der
+Mitgliedsschaft. Diese Regelung gilt jedoch nicht für Minderjährige und über 60 jährige (mehr dazu siehe Punkte 8.1 und 8.2). Je jünger Sie sind, desto weniger zahlen Sie. Der
 Jahresbeitrag staffelt sich wie folgt:
 
 1. Eintritt-Alterstufe: 0 bis 17 Jahre,  9,00 EUR
@@ -74,13 +74,13 @@ Eintritt-Altersstufe	Alter von	Alter bis	Beitrag
 Edit
 Showing 1 to 4 of 4 entries                                      PreviousNext
 
-Beim Erreichen von 18 Jahren ändert sich Ihr Beitrag auf 29,00 EUR und bleibt
+8.1 Beim Erreichen von 18 Jahren ändert sich Ihr Beitrag auf 29,00 EUR und bleibt
 dann über die gesamte Zeit Ihrer Mitgliedschaft konstant.
 
-Beim Erreichen von 71 Jahre ändert sich Ihr Beitrag auf 69,00 EUR. Wenn zu
+8.2 Beim Erreichen von 71 Jahre ändert sich Ihr Beitrag auf 69,00 EUR. Wenn zu
 diesem Zeitpunkt der Eintritts weniger als 10 Jahre zurückliegt.
 
-9. Wie ist de Beitrag für die registrierte Mitgliedschaft zu entrichten?
+9. Wie ist der Beitrag für die Mitgliedschaft zu entrichten?
 
 Der Beitrag ist einmal pro Jahr in voller Summe im Voraus zu entrichten.
 
@@ -104,7 +104,7 @@ Kemitnetwork akzeptiert?
 
 Zur Zeit sind nur Zahlungen mit Paypal, Banküberweisungen und Daueraufträge
 akzeptiert. Ausnahmsweise kann auf Antrag eines Mitglieds oder Förderers eine
-andere Zahlungsmethode genehmigt werden.
+andere Zahlungsmethode vereinbart werden.
 
 13. Werden Mitgliedsbeiträge nach einer Kündigung rückererstattet?
 
@@ -117,9 +117,9 @@ coeur) pro eingetretenen Fall gestartet werden. Hierbei sind alle Mitglieder
 verpflichtet, sich zu beteiligen, mindestens in Höhe der festgelegten
 Aufrufsumme. Die Höhe der Beteiligung ist abhängig von der Mitgliederzahl und
 der Höhe des bereits angesammelten Fonds. Die fallweise ausgerufenen
-Sammelaktionen dienen als Ausdruck der Solidarität zur einer langfristige
+Sammelaktionen dienen als Ausdruck der Solidarität zur langfristigen
 Konsolidierung des Fonds zu entrichten. Dies sichert eine dauerhafte
-Handlungsfähigkeit der Plattform in aller Sichten.
+Handlungsfähigkeit der Plattform in allen (Sichten ist es Hinsichten gemeint?).
 
 15. Wie hoch ist die Rückführungshilfe? Oder wie hoch ist die reservierte Zuschusssumme?
 
@@ -138,13 +138,13 @@ Rückführungskosten durch freiwillige Sammelaktion der Mitglieder finanziert
 werden. Diese Kosten können 40% der maximalen geltenden Zuschusssumme nicht
 überschreiten.
 
-Im dritten Mitgliedschaftsjahr werden die Rückführungskosten 60% der maximalen
+Im dritten Mitgliedschaftsjahr werden die Rückführungskosten mit 60% der maximalen
 geltenden Zuschusssumme bezuschusst werden.
 
-Im vierten Mitgliedschaftsjahr werden die Rückführungskosten 80% der maximalen
+Im vierten Mitgliedschaftsjahr werden die Rückführungskosten mit 80% der maximalen
 geltenden Zuschusssumme bezuschusst werden.
 
-Ab dem fünften Mitgliedschaftsjahr werden die Rückführungskosten 100% der
+Ab dem fünften Mitgliedschaftsjahr werden die Rückführungskosten mit 100% der
 maximalen geltenden Zuschusssumme bezuschusst werden.
 
 Show 10 entries                                             Search:
@@ -160,20 +160,20 @@ Edit
 Showing 1 to 5 of 5 entries                                     PreviousNext
 
 Bei dem Fortgang im Herkunftsland bzw. im Wahlland wird die reservierte
-Zuschusssumme kulanzerweise auf 30% abgemindert, wenn der dortige Aufenthalt
-die Dauer von drei Monat überstreichen. Dagegen liegt die Dauer der Aufenthalt
-unter drei 90 Tage wird die reservierte Zuschusssumme kulanzerweis auf 50%
+Zuschusssumme kulanterweise auf 30% abgemindert, wenn der dortige Aufenthalt
+die Dauer von drei Monaten überschreiten. Wenn die Dauer des Aufenthalts
+unter drei 90 Tagen liegt, wird die reservierte Zuschusssumme kulanterweis auf 50%
 abgemindert.
 
 Die maximale geltende Zuschusssumme beträgt Anbetracht der aktuellen Projektion
-15.000,00EUR pro Rückführungsfall. Die maximale geltende Zuschusssumme wird
-Konjunktur bedingt sowie in Abhängigkeit der Mitgliederzahlen der Plattforme
-und der Zustand des Fonds jährlich angepasst.
+15.000,00 EUR pro Rückführungsfall. Die maximale geltende Zuschusssumme wird
+Konjunktur bedingt sowie in Abhängigkeit der Mitgliederzahlen der Plattform
+und des Zustandes des Fonds jährlich angepasst.
 
 16. Was passiert, wenn die Kontaktpersonen bzw. die Familie zusätzliche
-Leistungen wünscht?
+Leistungen wünschen?
 
-Nur Leistungen, die in Verbindung mit der Rückführung  können in der Regel in
+Nur Leistungen, die in Verbindung mit der Rückführung stehen, können in der Regel in
 Abhängigkeit der reservierten Zuschusssumme von der Plattform in ausgewogenen
 Verhältnissen bezuschusst werden.
 
@@ -183,8 +183,7 @@ reservierten Zuschusssumme?
 Ja. Im ersten Mitgliedschaftsjahr kann der Mietglied aufgrund der Karenzzeit
 keine Zuschusssumme reservieren. Im zweiten Jahr wird die reservierte
 Zuschusssumme nur durch eine freiwillige Sammelaktion der Mitglieder
-finanziert. Zwar können die Rückführungskosten maximal bis in der Höhe von
-vierzig Prozent der maximalen geltenden Zuschusssumme bezuschusst werden.
+finanziert. Allerdings werden die Rückführungskosten mit maximal 40% der maximalen geltenden Zuschusssumme bezuschusst werden.
 
 18. Was ist, wenn die sterblichen Überreste nicht in mein Rückführungsland
 zurück geführt werden soll?
@@ -197,7 +196,7 @@ der Plattform Kemitnetwork mitgeteilt werden.
 19. Wer kann Kontaktperson sein?
 
 Jedes Mitglied ist verpflichtet, mindestens vier und bis zu sechs
-Kontaktpersonen in einer Rangfolge zu nennen. Die Kontaktpersonen und die
+Kontaktpersonen (waren wir hier nicht bei 3 Kontakten?) in einer Rangfolge zu nennen. Die Kontaktpersonen und die
 Rangfolge können jederzeit vom Mitglied über die Plattform Kemitnetwork
 angepasst werden. Im Wahlland bzw. Herkunftsland soll mindestens zwei Kontakte
 Person benannt sein.
@@ -206,10 +205,10 @@ Person benannt sein.
 
 Der Todesfall ist innerhalb von 20 Tagen zu melden.
 
-21. Wie lange dauert die Bearbeitung eine Beihilfeantrags?
+21. Wie lange dauert die Bearbeitung eines Beihilfeantrags?
 
-Nach vollständigem Eingang und Prüfung der erforderlichen Unterlagen wird die
-eingereichten Rechnungen sofort bezuschusst abgleglichen. Es ist daher sehr
+Nach vollständigem Eingang und Prüfung der erforderlichen Unterlagen werden die
+eingereichten Rechnungen sofort bearbeitet. Es ist daher sehr
 wichtig, die Dokumente so schnell wie möglich an Kemitnetwork zu senden.
 
 22. Was ist zu tun beim Todesfall eines Kemiters?
@@ -230,12 +229,12 @@ e) Die Bestimmung des Rückführungslandes
 f) eine Bestätigung über die Wahrheitsmäßigkeit der eingereichten Unterlagen
 durch eine der Kontaktpersonen bzw. Begünstigten
 
-g) Kopie der Auszug des Reisepass zur Information über die eingetretene Reise
+g) Kopie der Auszug (ist das das Stempel der Einresise gemeint?) des Reisepass zur Information über die eingetretene Reise
 im Herkunftsland, wenn der Todesfall im Herkunftsland geschehen ist.
 
 Wir können darüber hinaus weitere Nachweise und Auskünfte verlangen, wenn dies
-erforderlich ist, um unsere Leistungspflicht zu klären. Nach Überprüfung der
-Unterlagen wird die Beihilfe an den Begünstigten überwiesen.
+erforderlich ist, um unsere Leistungspflicht zu klären. (Nach Überprüfung der
+Unterlagen wird die Beihilfe an den Begünstigten überwiesen.: wollten wir doch nicht mehr machen oder?)
 
 23. Ist Kemitnetwork am Rückführungsprozess beteiligt?
 
@@ -249,28 +248,28 @@ notwendigen Maßnahme für die Beerdigung in dem Wohnsitzland.
 Die Plattform kann eine Empfehlung zur Bildung eines Komitees zur Begleitung
 der Hinterbliebenen aussprechen. Alle verfügbaren Kemiter im Umkreis werden
 gebeten, an Trauerfeier bzw. Totenwache teilzunehmen. Das Ziel von Kemitnetwork
-ist, eine starke Gemeinschaft in der Diaspora zu bilden.
+ist es, eine starke Gemeinschaft in der Diaspora zu bilden.
 
-25. Wann kann ich meine meine Mitgliedschaft kündigen?
+25. Wann kann ich meine Mitgliedschaft kündigen?
 
 Sie können zum Ende jedes Kalenderjahres mit einer Frist von 3 Monaten per
 signierte E-Mail-Nachricht oder eine per Post kündigen. Ihre Kündigung ist
-rechtskräftig, wenn Sie von Kemitnetwork eine Bestätigung erhalten haben
+rechtskräftig, wenn Sie von Kemitnetwork eine Bestätigung erhalten haben.
 
-26.Was passiert bei Beitrug oder Vortäuschung?
+26.Was passiert bei Betrug oder Vortäuschung?
 
 Jedes Mitglied, das an einem Betrugsfall gegen die Plattform Kemitnetwork
 beteiligt ist, verliert automatisch seine Mitgliedschaft und die damit
-verbundenen Vorteile. Darüberhinaus behalten wir uns das Recht vor,
+verbundenen Vorteile. Darüberhinaus behalten wir uns das Recht vor
 Strafanzeige zu erstatten.
 
-27. Was passiert, wenn der Kemiters ähnliche Rückführungsservice gepflegt hat?
+27. Was passiert, wenn der Kemiter Kontakte zu ähnlichen Rückführungsdiensten gepflegt hat?
 
-Eine Kontaktaufnahme mit dem jeweiligen Dienstleister wird zur Klärung, zur
-Abstimmung und zur Koordinierung einer allerseits fairen  Abwicklung gesucht.
+Eine Kontaktaufnahme mit dem jeweiligen Dienstleister wird zur Klärung, 
+Abstimmung und Koordinierung einer allerseits fairen Abwicklung gesucht.
 
-28. Wie die ersten Meilensteine für eine interne Stackholderposition der
-Kemitnetwork-plattform gelegt werden können?
+(28. Wie die ersten Meilensteine für eine interne Stackholderposition der
+Kemitnetwork-plattform gelegt werden können?) Ist das für den Kunden relevant?
 
 Die Plattform Kemitnetwork stellt bereits einige Werkzeuge wie “Bekannte
 einladen”, Voranmeldung von “Bulk-Mitgliedschaft” oder Spendenmöglichkeiten zur
