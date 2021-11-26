@@ -1,7 +1,8 @@
 Die zu erbringenden Rückführungshilfe werden wie folgt  festgelegt:
+
 §1 Gültigkeit
 
-Die Zuschuss-Richtlinie gelten im Rahmen der Abschließung von Mitgliedschaften
+Die Zuschuss-Richtlinien gelten im Rahmen der Abschließung einer Mitgliedschaft
 auf der Plattform Kemitnetwork ab den 01. Januar 2022.
 
 §2 Höhe der reservierten Zuschusssumme
@@ -9,11 +10,11 @@ auf der Plattform Kemitnetwork ab den 01. Januar 2022.
 Die Plattform verfolgt das Ziel, die vollständige Übernahme der
 Rückführungskosten deren Mitglieder durch Zuschuss zu ermöglichen. Die
 Bezuschussung ist nach der Dauer der Mitgliedschaft an der Plattform
-grundsätzlich gestaffelt. Die Höhe der Bezuschussung wächst mit der Dauer der
-Mitgliedschaft und erreicht die maximale Höhe bereits an dem fünften Jahr der
+gestaffelt. Die Höhe der Bezuschussung wächst mit der Dauer der
+Mitgliedschaft und erreicht die maximale Höhe bereits nach fünften Jahren der
 Mitgliedschaft.
 
-Im ersten Jahr der Mitgliedschaft gilt eine Karenzzeit. Kulanzweise kann eine
+Im ersten Jahr der Mitgliedschaft gilt eine Karenzzeit. Kulanterweise kann eine
 Sammelaktion gestartet werden.
 
 Im zweiten Mitgliedschaftsjahr gilt weiterhin die Karenzzeit. Jedoch können die
@@ -21,13 +22,13 @@ Rückführungskosten durch freiwillige Sammelaktion der Mitglieder finanziert
 werden. Diese Kosten können 40% der maximalen geltenden Zuschusssumme nicht
 überschreiten.
 
-Im dritten Mitgliedschaftsjahr werden die Rückführungskosten 60% der maximalen
+Im dritten Mitgliedschaftsjahr werden die Rückführungskosten mit 60% der maximalen
 geltenden Zuschusssumme bezuschusst werden.
 
-Im vierten Mitgliedschaftsjahr werden die Rückführungskosten 80% der maximalen
+Im vierten Mitgliedschaftsjahr werden die Rückführungskosten mit 80% der maximalen
 geltenden Zuschusssumme bezuschusst werden.
 
-Ab dem fünften Mitgliedschaftsjahr werden die Rückführungskosten 100% der
+Ab dem fünften Mitgliedschaftsjahr werden die Rückführungskosten mit 100% der
 maximalen geltenden Zuschusssumme bezuschusst werden.
 
 Show 10 entries                                    Search:
@@ -43,20 +44,20 @@ Showing 1 to 5 of 5 entries                                       PreviousNext
 
 Die maximale geltende Zuschusssumme kann bereits mit einer Karenzzeit von zwei
 Jahren von einem Mitglied reserviert sein, wenn einen fünffachen
-Mitgliedbeitrag im Jahr des Eintritts entrichtet ist. Im diesem Fall beträgt
+Mitgliedbeitrag im Jahr des Eintritts entrichtet ist. In diesem Fall beträgt
 der reservierte Zuschuss die Hälfte der maximalen geltenden Zuschusssumme in
 dem ersten Mitgliedschaftsjahr.
 
 Bei dem Fortgang im Herkunftsland bzw. im Wahlland wird die reservierte
-Zuschusssumme auf 30% abgemindert, wenn der Aufenthalt die Dauer von drei Monat
-überstreichen. Dagegen liegt die Dauer der Aufenthalt unter drei 90 Tage wird
-die reservierte Zuschusssumme kulanzerweis auf 50% abgemindert.
+Zuschusssumme auf 30% abgemindert, wenn der Aufenthalt die Dauer von drei Monaten
+überschreiten. Wenn die Dauer des Aufenthalts unter drei 90 Tagen liegt, wird die reservierte 
+Zuschusssumme kulanterweis auf 50% abgemindert.
 
 §3 Höhe der maximalen geltenden Zuschusssumme
 
 Die maximale geltende Zuschusssumme beträgt Anbetracht der aktuellen Projektion
 15.000,00EUR pro Rückführungsfall. Dies wird Konjunktur bedingt sowie in
-Abhängigkeit der Mitgliederzahlen der Plattforme und der Zustand des Fonds
+Abhängigkeit der Mitgliederzahlen der Plattform und der Zustand des Fonds
 jährlich angepasst.
 
 Jetzt voranmelden                                                    Voranmlden

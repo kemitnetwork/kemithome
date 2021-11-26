@@ -1,36 +1,38 @@
 Die zu entrichtenden Beiträge und Sonderbeteiligungen werden wie folgt  festgelegt:
+
 §1 Gültigkeit
 
-Die Beiträge-Richtlinie gelten im Rahmen der Abschließung von Mitgliedschaften
+Die Beitrag-Richtlinien gelten im Rahmen der Abschließung einer Mitgliedschaft
 auf der Plattform Kemitnetwork ab den 01. Januar 2022.
 
 §2 Aufnahmegebühr und Mitgliedsbeiträge
 
 Als Mitglied von Kemitnetwork zahlen Sie eine einmalige Aufnahmegebühr in Höhe
-von 5,00EUR und einen jährlichen Mitgliedsbeitrag. Ihr Jahresbeitrag richtet
+von 5,00 EUR und einen jährlichen Mitgliedsbeitrag. Ihr Jahresbeitrag richtet
 sich nach ihrem Eintrittsalter und gilt über die gesamte Zeit Ihrer
-Mitgliedsschaft. Es gilt, je jünger Sie sind, desto weniger zahlen Sie. Der
+Mitgliedsschaft. Diese Regelung gilt jedoch nicht für Minderjährige und über 60 jährige (mehr dazu siehe Punkte 2.1 und 2.2).
+Je jünger Sie sind, desto weniger zahlen Sie. Der
 Jahresbeitrag staffelt sich wie folgt:
 
-1. Einstritt-Alterstufe: 0 bis 17 Jahre,  9,00EUR
-2. Einstritt-Alterstufe: 18 bis 30 Jahre,  29,00EUR
-3. Einstritt-Alterstufe: 31 bis 50 Jahre,  39,00EUR
-4. Einstritt-Alterstufe: 51 bis 70 Jahre,  49,00UR
+1. Einstritt-Alterstufe: 0 bis 17 Jahre,  9,00 EUR
+2. Einstritt-Alterstufe: 18 bis 30 Jahre,  29,00 EUR
+3. Einstritt-Alterstufe: 31 bis 50 Jahre,  39,00 EUR
+4. Einstritt-Alterstufe: 51 bis 70 Jahre,  49,00 EUR
 
 Show 10 entries                                     Search:
 Eintritt-Altersstufe	    Alter von	Alter bis	Beitrag
-1.	                        0	        17	        9
-2.	                        18	        30	        29
-3.	                        31	        50	        39
-4.	                        51	        70	        49
+1.	                        0	        17	        9,00 EUR
+2.	                        18	        30	        29,00 EUR
+3.	                        31	        50	        39,00 EUR
+4.	                        51	        70	        49,00 EUR
 
 Edit
 Showing 1 to 4 of 4 entries                                     PreviousNext
 
-Beim Erreichen von 18 Jahren ändert sich Ihr Beitrag auf 29,00EUR und bleibt
+2.1 Beim Erreichen von 18 Jahren ändert sich Ihr Beitrag auf 29,00 EUR und bleibt
 dann über die gesamte Zeit Ihrer Mitgliedschaft konstant.
 
-Beim Erreichen von 71 Jahre  ändert sich Ihr Beitrag auf 69,00EUR. Wenn zu
+2.2 Beim Erreichen von 71 Jahre  ändert sich Ihr Beitrag auf 69,00 EUR. Wenn zu
 diesem Zeitpunkt der Eintritts weniger als 10 Jahre zurückliegt.
 
 §3 Sonderbeteiligungen
@@ -48,7 +50,7 @@ aller Sichten.
 
 Zur Zeit sind nur Zahlungen mit Paypal, Banküberweisungen und Daueraufträge
 akzeptiert. Ausnahmsweise kann auf Antrag eines Mitglieds oder Förderers eine
-andere Zahlungsmethode genehmigt werden.
+andere Zahlungsmethode vereinbart werden.
 
 §5 Rückerstattung
 
