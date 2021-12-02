@@ -258,22 +258,40 @@ schriftlich per signierter E-Mail-Nachricht oder per Post kündigen. Ihre
 Kündigung ist rechtskräftig, wenn Sie von Kemitnetwork eine Bestätigung
 erhalten haben.
 
-26. Was passiert bei Betrug oder Vortäuschung?
+26. Kann ich meine Kündigung widerrufen?
+
+Ja! Wenn Sie Ihre Mitgliedschaft gekündigt haben, finden Sie während der
+verbleibenden Laufzeit in der Mitgliedschaft-Übersicht im Kundenportal die
+Option “reaktivieren”. Klicken Sie sie um Ihr Benutzerkonto zu reaktivieren und
+damit Ihre Kündigung rückgängig zu machen
+
+27. Was geschieht wenn ich meine Kündingsfrist nicht anhalte?
+
+Die Mitgliedschaft verlängert sich automatisch um ein Kalenderjahr
+
+28. Wie kann ich mein Benutzerkonto auf der Plattform löschen?
+
+Sie können mit einer Kündigung gleichzeitig, das löschen Ihr Benutzerkonto bzw.
+Ihre Daten beantragen. Das Konto wird dann von unserer Plattform gelöscht und
+alle eingegebene Informationen gehen verloren. Ansonsten werden die aufbewahrt,
+um eine mögliche Reaktivierung des Benutzerkontos zu vereinfachen.
+Selbstverständlich können Sie zu jedem Zeitpunkt nach Ihrer Kündigung, das
+löschen Ihrer Daten anfordern
+
+29. Was passiert bei Betrug oder Vortäuschung?
 
 Jedes Mitglied, das an einem Betrugsfall gegen die Plattform Kemitnetwork
 beteiligt ist, verliert automatisch seine Mitgliedschaft und die damit
 verbundenen Vorteile. Darüberhinaus behalten wir uns das Recht vor,
 Strafanzeige zu erstatten.
 
-27. Was passiert, wenn der Kemiter Kontakte zu ähnlichen Rückführungsdiensten gepflegt hat?
+30. Was passiert, wenn der Kemiter Kontakte zu ähnlichen Rückführungsdiensten gepflegt hat?
 
 Eine Kontaktaufnahme mit dem jeweiligen Dienstleister wird zur Klärung,
 Abstimmung und Koordinierung einer allerseits fairen Abwicklung gesucht.
 
-(28. Wie können erste Meilensteine für eine interne Stackholderposition der
-Kemitnetwork-Plattform gelegt werden?) Ist das für den Kunden relevant?
+31. Wie kann ich mich für die Plattform engagieren?
 
-Die Plattform Kemitnetwork stellt bereits einige Werkzeuge wie "Bekannte
-einladen", Voranmeldung für "Bulk-Mitgliedschaft" oder Spendenmöglichkeiten zur
-Verfügung, die als Anwärter für eine interne Stackholderposition dienen können.
-
+Die Plattform Kemitnetwork stellt einige Werkzeuge wie "Bekannte einladen",
+Voranmeldung für "Bulk-Mitgliedschaft" oder Spendenmöglichkeiten zur Verfügung,
+die als Anwärter für eine interne Stackholderposition dienen können.
